@@ -1,9 +1,9 @@
 # Code Refactor Starter Code
-# Urban Octo Telegram Challenege 1
+# Urban Octo Telegram Challenge 1
 
 ## Description
 
-Challenege 1 was the creation of a code base that follows accessibility standards so the site is optimized for search engines
+Challenge 1 was the creation of a code base that follows accessibility standards so the site is optimized for search engines
 
 ## Installation
 
